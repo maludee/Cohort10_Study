@@ -2,7 +2,7 @@
 
 ### Algorithms:
 _Logistic Regression_  
-A classification algorithm 
+A classification algorithm   
 Output is the probability of an observation belonging to a certain class using the log-odds function.   
 Pros: Interpretable, difficult to overfit
 
@@ -30,3 +30,5 @@ High variance = overfit
 Low variance = underfit    
 
 Some useful diagrams:   
+![diagram 1](../images/bias_variance.jpeg)   
+![diagram 2](../images/model_complexity_error_training_test.jpg)
