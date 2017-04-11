@@ -1,4 +1,4 @@
-## April 5th, 2017
+## April 10th, 2017
 
 ### Algorithms:
 _Logistic Regression_  
