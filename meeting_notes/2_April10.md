@@ -2,7 +2,7 @@
 
 ### Algorithms:
 _Logistic Regression_  
-A classification algorithm 
+A classification algorithm   
 Output is the probability of an observation belonging to a certain class using the log-odds function.   
 Pros: Interpretable, difficult to overfit
 
