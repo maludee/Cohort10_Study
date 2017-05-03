@@ -26,9 +26,12 @@
 
 - What's your favorite thing about data science?
 
-
 - What's your favorite project that you worked on at Metis? 
 
 - What data scientist do you most admire?
+
+- What are you terrible at?
+
+- What are you really good at?
 
 
